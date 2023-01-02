@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\win32-build\CMakeFiles\d4574d68d3ba762b1b6f6a4bda11f8f6\SYNC_RESOURCE-ProjectSEM2.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\win32-build\CMakeFiles\SYNC_RESOURCE-ProjectSEM2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F0C8C464-414F-3805-9B3F-3F9E6D8F3BB3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

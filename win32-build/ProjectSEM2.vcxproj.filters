@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameSettings\GameConfig.cpp">
+      <Filter>Source Files\Classes\GameConfig</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Game\ItemBase.cpp">
+      <Filter>Source Files\Classes\Inventory</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameData\ItemData.cpp">
+      <Filter>Source Files\Classes\GameData</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameSettings\GameConfig.h">
+      <Filter>Source Files\Classes\GameConfig</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Game\ItemBase.h">
+      <Filter>Source Files\Classes\Inventory</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameData\ItemData.h">
+      <Filter>Source Files\Classes\GameData</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D:\VTCA\SEM2\Project-2\ProjectSEM2\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{6008162D-7453-3EC9-944B-CE67A9C99268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{8A2CA2CB-BFE8-3B71-AAEC-DF7197078056}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{8A4DEB62-292F-3073-9994-B7B137F92C4E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{60DFB698-1772-345F-89F0-7AA05D1C99D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{2F008622-926D-3AD1-AD8D-46D76C29B347}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{BCFE2858-B261-3AB9-A77C-C897E2974B2F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\GameConfig">
+      <UniqueIdentifier>{cb06ba0f-db1a-4b8b-9fd3-7eda236eb538}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\Inventory">
+      <UniqueIdentifier>{d223eb06-9a90-49e2-aa16-69d4d577a0d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes\GameData">
+      <UniqueIdentifier>{a2f6d5ef-e7a9-4167-b250-6e288b0b5f5b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
